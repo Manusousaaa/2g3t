@@ -1,5 +1,5 @@
 escrever = (msg) => alert(msg);
-soma = (a,b) => a + b;
+soma = (a,b) =>nunber(a) + nunber(b);
 sub = (a,b) => a - b;
 div = (a,b) => a / b;
 mult = (a,b) => a * b;
