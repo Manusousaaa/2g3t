@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(97, 131, 194);
+}
+.calc_simples {
+    background-color: rgb(218, 55, 218);
+    padding: 5px;
+    width: 200px;
+    border-radius: 5px;
+}
+.display_simples {
+    width: 100%;
+    text-align: center;
+}
+#resultado {
+    text-align: right;
+}
+.teclas {
+    text-align: center;
+}
+button {
+    width: 40px;
+    height: 40px;
+    margin: 3px;
+}
+#igual {
+    background-color: rgb(159, 40, 175);
+    color: rgb(0, 0, 0);
+}
+
+
+
+#nova_imagem{
+    width: 640px;
+    height: 360px;
+}
+.imagens{
+    width: 100%;
+    text-align: center;
+}
